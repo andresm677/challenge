@@ -1,8 +1,8 @@
 import 'dart:convert';
+import 'package:challenge/Home/user_card.dart';
+import 'package:challenge/user.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
-import 'package:naver2/Home/user_card.dart';
-import 'package:naver2/user.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

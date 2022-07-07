@@ -1,10 +1,10 @@
 import 'dart:math';
 
+import 'package:challenge/UserLocation/user_location.dart';
+import 'package:challenge/user.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
-import 'package:naver2/UserLocation/user_location.dart';
-import 'package:naver2/user.dart';
 
 class UserCard extends StatelessWidget {
   final User user;

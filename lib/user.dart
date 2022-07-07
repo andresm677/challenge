@@ -1,5 +1,5 @@
-import 'package:naver2/address.dart';
-import 'package:naver2/company.dart';
+import 'package:challenge/address.dart';
+import 'package:challenge/company.dart';
 
 class User {
   int? id;

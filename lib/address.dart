@@ -1,4 +1,4 @@
-import 'package:naver2/geo.dart';
+import 'package:challenge/geo.dart';
 
 class Address {
   String? street;
